@@ -1,0 +1,14 @@
+author: VoidWhisperer
+database: false
+description: "Minesworn people refferal"
+main: vc.voidwhisperer.swornrefferal.main.SwornRefferal
+name: SwornRefferal
+startup: postworld
+version: '3.2'
+commands:
+ refer:
+  description: refers a person
+  usage: /refer [name]
+ reflb:
+  description: refferal leaderboard.
+  usage: /reflb
